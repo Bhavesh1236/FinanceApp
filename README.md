@@ -5,6 +5,11 @@ Take control of your finances with FinanceApp, the ultimate mobile app designed 
 # Hey there :wave:
 
 This application is based on [Figma design templates](https://www.figma.com/file/vNLzGGnpbMDLb3DR5mjVwB/Finance-Mobile-App-(Community)-(Copy)?type=design&node-id=1%3A157&mode=design&t=OM8yGHypwieh26bW-1) :thumbsup: and thanks to this designer.
+
+# App Cover Screenshots
+
+![App Cover](./assets/images/Cover.png)
+
 ## Get Started
 
 install dependencies 
